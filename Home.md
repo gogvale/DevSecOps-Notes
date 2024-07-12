@@ -1,0 +1,10 @@
+# [[DevSecOps Theory]]
+# [[The CALMS Framework]]
+# [[SSDLC]]
+
+# [[SSDLC Methodologies]]
+# [[Intro to Pipeline Automation]]
+# [[Fundamentals of CI+CD]]
+# [[Securing the Pipeline Checklist]]
+# [[Static Application Security Testing]]
+# [[Dynamic Application Security Testing]]
