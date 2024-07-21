@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1dcdd157a3117873",
+        "id": "a897d70d9f314f58",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d9abd541064206",
+            "id": "f23c6f7fc84a8bd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d48b22074036ccfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/SSDLC.md",
+                "file": "Notes/Microservices/K8s Hardening.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,20 +91,12 @@
             }
           },
           {
-            "id": "7d770576b6e45fdb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f399180ad90c0f89",
+            "id": "2f70ac768a045c9a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SSDLC.md",
+                "file": "Notes/Microservices/K8s Hardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,33 +108,45 @@
             }
           },
           {
-            "id": "f6c776a8c0fc366e",
+            "id": "c1b36de43885276e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/SSDLC.md",
+                "file": "Notes/Microservices/K8s Hardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9a7b990bd7280061",
+            "id": "e19fb330ae40a154",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/SSDLC.md"
+                "file": "Notes/Microservices/K8s Hardening.md"
+              }
+            }
+          },
+          {
+            "id": "106f28458e252777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/OWASP-ZAP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 561.5
+    "width": 679.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,41 +158,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d48b22074036ccfd",
+  "active": "e19fb330ae40a154",
   "lastOpenFiles": [
-    "Home.md",
-    "Notes/SSDLC.md",
-    "Dynamic Application Security Testing.md",
-    "Notes/Static Application Security Testing.md",
-    "Notes/Fundamentals of CI+CD.md",
-    "Notes/Securing the Pipeline Checklist.md",
-    "Notes/Insecure Design.md",
     "Notes/Intro to Pipeline Automation.md",
-    "Notes/SSDLC Methodologies.md",
-    "Notes/The CALMS Framework.md",
+    "Notes/Insecure Design.md",
+    "Notes/Fundamentals of CI+CD.md",
+    "Notes/Dynamic Application Security Testing.md",
     "Notes/DevSecOps Theory.md",
-    "Images/Typical Pipeline.png",
+    "Notes/DevOps.md",
+    "Notes/Code Scanning and Review.md",
+    "Notes/SDLC/SSDLC Methodologies.md",
+    "Notes/SDLC/SSDLC.md",
+    "Notes/SDLC/SDLC Methodologies Summarized.md",
+    "Notes/SDLC/SDLC Methodologies.md",
+    "Notes/Threat Modeling.md",
+    "Home.md",
+    "Notes/Securing the Pipeline Checklist.md",
+    "Notes/Microservices/K8s Hardening.md",
+    "Notes/SDLC",
+    "Notes/Microservices/Kubernetes.md",
+    "Notes/OWASP-ZAP.md",
+    "OWASP ZAP.md",
+    "Notes/Microservices.md",
+    "Notes/Microservices/K8s Theory.md",
+    "Notes/Microservices/kubectl Cheat Sheet.md",
+    "Notes/Microservices",
+    "Pasted image 20240720220715.png",
+    "Notes/Static Application Security Testing.md",
+    "Images/OWASP ZAP/Pasted image 20240717190549.png",
+    "Images/OWASP ZAP",
+    "Images/OWASP ZAP/Pasted image 20240717191714.png",
+    "Images/OWASP ZAP/Pasted image 20240717191650.png",
+    "Images/OWASP ZAP/Pasted image 20240717191427.png",
+    "Images/OWASP ZAP/Pasted image 20240717191209.png",
+    "Images/OWASP ZAP/Pasted image 20240717191157.png",
+    "Images/OWASP ZAP/Pasted image 20240717190932.png",
+    "Images/OWASP ZAP/Pasted image 20240717190807.png",
+    "Images/OWASP ZAP/Pasted image 20240717190606.png",
+    "Notes/The CALMS Framework.md",
     "Fundamentals of CI/CD.md",
     "Fundamentals of CI",
-    "Notes/SDLC Methodologies.md",
     "Notes/Security Assessments.md",
-    "Notes/Code Scanning and Review.md",
     "Code Scanning",
-    "Notes/Threat Modeling.md",
-    "Images/STRIDE.png",
-    "Images/PASTA.png",
-    "Notes/SDLC Methodologies Summarized.md",
-    "Notes/Risk Assessment.md",
-    "Images/Shifting Left.png",
-    "Notes/DevOps.md",
-    "Images/DevOps Loop.png",
     "Notes",
-    "Images/Relative Cost of Fixing Defects.png",
-    "Images",
-    "Images/Phases of SSDLC.png",
-    "Images/5x5 Risk Matrix.png",
-    "Pasted image 20240705110455.png",
-    "DevSecOps.md",
-    "Welcome.md"
+    "Images"
   ]
 }

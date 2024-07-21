@@ -20,7 +20,7 @@ Secure code review and analysis are crucial to ensure web applications are free 
    - Tests code while the application is running.
    - Simulates attacks to find vulnerabilities.
    - Typically used in the testing phase.
-   - **Common Tools:** OWASP ZAP, Burp Suite, AppSpider, Acunetix
+   - **Common Tools:** [[OWASP-ZAP]], Burp Suite, AppSpider, Acunetix
 
 ## <abbr title="Interactive Application Security Testing">IAST</abbr> (Interactive Application Security Testing)
 
