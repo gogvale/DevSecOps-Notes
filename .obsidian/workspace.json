@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0820cb8a1891b197",
+        "id": "04211c17e9dfc46a",
         "type": "tabs",
         "children": [
           {
-            "id": "b687a83b5ec41644",
+            "id": "9971f42d4e558e39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Microservices/Container Hardening.md",
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c469c66a1f69064e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Securing the Pipeline Checklist.md",
                 "mode": "preview",
                 "source": false
               }
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Microservices/Container Hardening.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Microservices/Container Hardening.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Microservices/Container Hardening.md"
+                "file": "Home.md"
               }
             }
           },
@@ -154,16 +166,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b687a83b5ec41644",
+  "active": "9971f42d4e558e39",
   "lastOpenFiles": [
-    "Notes/Code Scanning and Review.md",
-    "Notes/Microservices/Regular Security Audits.md",
-    "Notes/Microservices/Container Hardening.md",
-    "Notes/SDLC/SSDLC Methodologies.md",
+    "Notes/Securing the Pipeline Checklist.md",
+    "Notes/Insecure Design.md",
     "Home.md",
-    "Notes/Microservices/AppArmor.md",
+    "Notes/Fundamentals of CI+CD.md",
+    "Notes/Intro to Pipeline Automation.md",
+    "Notes/OWASP-ZAP.md",
+    "Notes/SDLC/SSDLC Methodologies.md",
     "Notes/SDLC/SSDLC.md",
+    "Notes/Security Assessments.md",
+    "Notes/Code Scanning and Review.md",
+    "Notes/Threat Modeling.md",
     "Notes/Risk Assessment.md",
+    "Notes/DevSecOps Theory.md",
+    "Notes/The CALMS Framework.md",
+    "Images/IaC tools comparison table.png",
+    "Notes/Infrastructure as Code.md",
+    "IaC.md",
+    "Notes/Microservices/Container Hardening.md",
+    "Notes/Microservices/Regular Security Audits.md",
+    "Notes/Microservices/AppArmor.md",
     "Notes/Microservices.md",
     "Notes/Microservices/Kubernetes.md",
     "Notes/Microservices/Docker.md",
@@ -171,23 +195,12 @@
     "Notes/Microservices/Docker compose.md",
     "Notes/Microservices/Docker context.md",
     "Notes/Microservices/K8s Hardening.md",
-    "Notes/Microservices/Docker Cheat Sheet.md",
     "Images/Docker/Pasted image 20240723141052.png",
     "Images/Docker",
     "Images/Docker/Pasted image 20240723140642.png",
     "Images/Docker/Docker containers typology.png",
-    "Notes/Microservices/DockerFiles.md",
-    "Notes/OWASP-ZAP.md",
     "Images/Docker/Docker inspect command.png",
     "Images/Docker/Docker image commands.png",
-    "Notes/Microservices/Container Theory.md",
-    "Notes/Microservices/K8s Theory.md",
-    "Notes/Microservices/kubectl Cheat Sheet.md",
-    "Notes/Intro to Pipeline Automation.md",
-    "Notes/Insecure Design.md",
-    "Notes/Fundamentals of CI+CD.md",
-    "Notes/Dynamic Application Security Testing.md",
-    "Notes/DevSecOps Theory.md",
     "Notes/SDLC",
     "Notes/Microservices",
     "Pasted image 20240720220715.png",
@@ -195,7 +208,6 @@
     "Images/OWASP ZAP",
     "Images/OWASP ZAP/Pasted image 20240717191714.png",
     "Images/OWASP ZAP/Pasted image 20240717191650.png",
-    "Images/OWASP ZAP/Pasted image 20240717191427.png",
     "Fundamentals of CI",
     "Code Scanning",
     "Notes",

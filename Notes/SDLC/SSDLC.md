@@ -1,4 +1,4 @@
-<abbr title="Secure Software Development Lifecycle">SSDLC</abbr> differs from [[SDLC Methodologies]] in making security a top priority from the beginning, and as explained in [[DevSecOps Theory#How does it differ from DevSecOps?]]. 
+<abbr title="Secure Software Development Lifecycle">SSDLC</abbr> differs from [[SDLC Methodologies]] in making security a top priority from the beginning, and as explained in [[DevSecOps Theory#How is DevSecOps different?]]. 
 It mainly helps an organization by reducing costs and improving efficiency on the development and deployment stages.
 
 ![[Relative Cost of Fixing Defects.png]]
