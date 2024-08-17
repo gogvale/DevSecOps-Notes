@@ -1,5 +1,0 @@
-**Microservices** are a software architecture style where an application is built as a collection of small, independent services. Each service performs a specific function and communicates with others through APIs.
-
-**[[Docker]]** is a tool used to create and run containers. A container is a standardized unit of software that packages code and all its dependencies so the application runs quickly and reliably from one computing environment to another. Docker makes it easy to package microservices into containers.
-
-**[[Kubernetes]]** is a platform designed to manage containerized applications at scale. It automates deployment, scaling, and management of containerized applications. It's particularly useful for managing multiple microservices, ensuring they work together efficiently.

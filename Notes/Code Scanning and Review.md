@@ -8,14 +8,14 @@ Secure code review and analysis are crucial to ensure web applications are free 
 
 # Types of Code Analysis
 
-## <abbr title="Static Application Security Testing">SAST</abbr> (Static Application Security Testing)
+## [[Static Application Security Testing]]
  
    - Examines code without running it.
    - Finds bugs before the application goes live.
    - Integrates into early development.
    - **Common Tools:** Checkmarx, Veracode, Fortify, SonarQube
 
-## <abbr title="Dynamic Application Security Testing">DAST</abbr> (Dynamic Application Security Testing)
+## [[Dynamic Application Security Testing]]
 
    - Tests code while the application is running.
    - Simulates attacks to find vulnerabilities.

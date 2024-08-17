@@ -2,7 +2,7 @@
 
 Security assessments are super important in the <abbr title="Software Development Life Cycle">SDLC</abbr>. Think of them as check-ups for your software to find and fix security problems. These assessments help make sure that everything is safe before the software is fully up and running. They are usually done at the end of the development process, in the Operations and Maintenance phase, to make sure all the final pieces are secure.
 
-# Types of Assessment
+# Types of Assessment[]()
 ## Vulnerability Assessment
 
 **What It Is:**

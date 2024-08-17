@@ -5,16 +5,6 @@ Establishing a secure build environment is crucial to safeguarding your software
 > [!Example] 
 > See [[Insecure Design]] for an explanation about the SolarWinds case
 
-# Summary
-
-1. **Pipeline Security is a Priority**: Ensuring the security of your CI/CD pipeline is crucial for safeguarding code and data integrity.
-2. **Access Controls are Fundamental**: Restricting access to critical branches, environments, and CI/CD variables is the first line of defence against unauthorised changes and data exposure. 
-3. **Runner Security is Essential**: Properly securing the machines running your GitLab Runner, along with strong authentication, is a must to prevent breaches.
-4. **Secrets Management Matters**: Safeguarding sensitive data, such as API keys and passwords, through GitLab CI/CD variables with masking and secure variables is vital. Using environment variables is not enough.
-5. **Isolate Environments**: Separating development (DEV) and production (PROD) environments minimises the risk of compromising the latter through the former.
-6. **Continuous Vigilance**: Regularly reviewing access permissions, scripts, and security configurations, combined with monitoring and alerting, ensures ongoing security.
-7. **Education is Key**: Educating your team about security best practices is essential to maintaining a robust security posture.
-
 ---
 
 # Pipeline Steps
