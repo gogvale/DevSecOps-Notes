@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04211c17e9dfc46a",
+        "id": "de172dd57fadbbf5",
         "type": "tabs",
         "children": [
           {
-            "id": "9971f42d4e558e39",
+            "id": "af1eff7d89ef58e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c469c66a1f69064e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Securing the Pipeline Checklist.md",
-                "mode": "preview",
+                "file": "Notes/Threat Modeling.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "benchm",
+                "query": "blame ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +76,28 @@
     "type": "split",
     "children": [
       {
+        "id": "9bbdaa0459146290",
+        "type": "tabs",
+        "dimension": 69.81481481481482,
+        "children": [
+          {
+            "id": "8c494fe60b1c09ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "1ebe3bd78795cd89",
         "type": "tabs",
+        "dimension": 30.185185185185187,
         "children": [
           {
             "id": "f7adb55ff31f46af",
@@ -108,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/Threat Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notes/Threat Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notes/Threat Modeling.md"
               }
             }
           },
@@ -150,11 +158,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 850.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,35 +174,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9971f42d4e558e39",
+  "active": "af1eff7d89ef58e4",
   "lastOpenFiles": [
-    "Notes/Securing the Pipeline Checklist.md",
-    "Notes/Insecure Design.md",
-    "Home.md",
-    "Notes/Fundamentals of CI+CD.md",
     "Notes/Intro to Pipeline Automation.md",
-    "Notes/OWASP-ZAP.md",
+    "Home.md",
+    "Summary.md",
     "Notes/SDLC/SSDLC Methodologies.md",
     "Notes/SDLC/SSDLC.md",
-    "Notes/Security Assessments.md",
-    "Notes/Code Scanning and Review.md",
-    "Notes/Threat Modeling.md",
-    "Notes/Risk Assessment.md",
-    "Notes/DevSecOps Theory.md",
     "Notes/The CALMS Framework.md",
+    "Notes/DevSecOps Theory.md",
+    "Notes/Microservices/Kubernetes.md",
+    "Pasted image 20240816182401.png",
+    "Notes/Standards, policies, and regulations.md",
+    "Notes/Securing the Pipeline Checklist.md",
+    "Notes/Static Application Security Testing.md",
+    "Notes/Code Scanning and Review.md",
+    "Notes/Microservices/Enforce Least Privilege.md",
+    "Notes/Microservices/Docker Cheat Sheet.md",
+    "Notes/Microservices/K8s Hardening.md",
+    "Notes/Microservices/Container Hardening.md",
+    "Notes/Microservices/Docker.md",
+    "Notes/Threat Modeling.md",
+    "Notes/Insecure Design.md",
+    "Notes/Fundamentals of CI+CD.md",
+    "Notes/OWASP-ZAP.md",
+    "Notes/Security Assessments.md",
+    "Notes/Risk Assessment.md",
     "Images/IaC tools comparison table.png",
     "Notes/Infrastructure as Code.md",
     "IaC.md",
-    "Notes/Microservices/Container Hardening.md",
-    "Notes/Microservices/Regular Security Audits.md",
-    "Notes/Microservices/AppArmor.md",
-    "Notes/Microservices.md",
-    "Notes/Microservices/Kubernetes.md",
-    "Notes/Microservices/Docker.md",
-    "Notes/Microservices/Enforce Least Privilege.md",
-    "Notes/Microservices/Docker compose.md",
-    "Notes/Microservices/Docker context.md",
-    "Notes/Microservices/K8s Hardening.md",
     "Images/Docker/Pasted image 20240723141052.png",
     "Images/Docker",
     "Images/Docker/Pasted image 20240723140642.png",
@@ -207,7 +215,6 @@
     "Images/OWASP ZAP/Pasted image 20240717190549.png",
     "Images/OWASP ZAP",
     "Images/OWASP ZAP/Pasted image 20240717191714.png",
-    "Images/OWASP ZAP/Pasted image 20240717191650.png",
     "Fundamentals of CI",
     "Code Scanning",
     "Notes",

@@ -9,7 +9,7 @@ When you're looking at a new project, use STRIDE to think about different types 
 
 - **Spoofing:** Could someone pretend to be someone else?
 - **Tampering:** Could someone change the data?
-- **Repudiation:** Can someone deny their actions?
+- **Repudiation:** Can someone deny their actions? (lack of evidence)
 - **Information Disclosure:** Could data be exposed?
 - **Denial of Service:** Could the service be made unavailable?
 - **Elevation of Privilege:** Could someone gain higher access than they should?
